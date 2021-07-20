@@ -1,4 +1,4 @@
-# Library-management-system-using-cpp
+Library Management System
 
 #Got familiar with C++ syntax and the object
 oriented paradigm.
